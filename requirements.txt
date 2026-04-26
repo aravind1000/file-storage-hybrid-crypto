@@ -1,0 +1,6 @@
+Flask
+werkzeug
+cryptography
+gunicorn
+
+# pip install Flask werkzeug cryptography gunicorn
